@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930492368198",
+    "project_id": "case-study-7d42b",
+    "storage_bucket": "case-study-7d42b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930492368198:android:dda8afb179f04e8ffed147",
+        "android_client_info": {
+          "package_name": "com.canbllb.study_case"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXMrIWEZFZKd6idB3dV2dTf5plKBslWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
